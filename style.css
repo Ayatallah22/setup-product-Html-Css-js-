@@ -1,0 +1,32 @@
+form{
+    width:50%;
+    box-shadow: 5px 7px 10px gray;
+    padding: 25px;
+    border-radius: 10px;
+    margin: auto;
+}
+form textarea{
+   
+    height: 300px !important;
+}
+input::placeholder{
+    color:#17a2b8 !important;
+
+}
+form textarea::placeholder{
+    color:#17a2b8 !important;
+}
+.mine{
+    background-color:#17a2b8 !important;
+    padding:5px;
+    margin:5px;
+    color:#ffff;
+    text-align:center;
+    width:200px;
+    margin-top:30px;
+    margin-left:50px;
+   
+
+
+
+}
